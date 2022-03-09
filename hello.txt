@@ -1,4 +1,5 @@
 
+
 hello git fix!
 hello git fix!
 hello git master
@@ -7,3 +8,4 @@ hello git master!
 hello GitHub
 hello GitHub new!
 hello master new！
+hello my name git-demo1,commit!
