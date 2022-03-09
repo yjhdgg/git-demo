@@ -6,4 +6,4 @@ hello git fix-hot2
 hello git master!
 hello GitHub
 hello GitHub new!
-
+hello master new！
